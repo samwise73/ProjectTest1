@@ -21,7 +21,8 @@ namespace ProjectTest1
 			Console.ReadLine();
 			Console.ReadLine();
 			// hahaha my world
-			
+			// hahaha my world2
+
 			//SerialPort sp = new SerialPort();
 
 			//sp.ReadBufferSize;
