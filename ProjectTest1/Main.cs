@@ -20,6 +20,7 @@ namespace ProjectTest1
 
 			Console.ReadLine();
 			Console.ReadLine();
+			// hahaha my world
 			
 			//SerialPort sp = new SerialPort();
 
