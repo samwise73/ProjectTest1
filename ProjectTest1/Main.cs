@@ -18,6 +18,9 @@ namespace ProjectTest1
 			var result = task.GetAwaiter().GetResult();
 			Console.ReadLine();
 
+			Console.ReadLine();
+			Console.ReadLine();
+			
 			//SerialPort sp = new SerialPort();
 
 			//sp.ReadBufferSize;
